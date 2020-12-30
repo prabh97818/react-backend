@@ -1,0 +1,1 @@
+Hello {firstname}, Welcome. We have reveived a request to create a new account. Please click on the following link to activate your account:  {{verify_url}}. If you did not make this request, simply ignore this message.'
